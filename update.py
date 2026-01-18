@@ -1,7 +1,7 @@
 import requests
 import sys
 
-URL = "https://raw.githubusercontent.com/MichelPrincy/jaden/main/main.py"
+URL = "https://raw.githubusercontent.com/MichelPrincy/telebot/main/main.py"
 TARGET_FILE = "main.py"
 
 print("🌐 Vérification de mise à jour...")
